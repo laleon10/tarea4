@@ -1,13 +1,12 @@
 # tarea4
 cap 7 y 8 
+
 3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68
 
 
 Figura5-68
 
-5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo 
-de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior
-a la cara posterior.
+5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 
 
 Figura 5-69
@@ -16,30 +15,25 @@ En este analisis podemos tenemos que encontrar las resistencias las cuales esten
 en la observacion las primeras resistencias en serie son
 
 Grupo 1: R1,R7,R8,R10
+
 Grupo 2: R2,R4,R6,R11
+
 Grupo 3: R3,R5,R9,R12
+
 SECCIÓN 5–2 Corriente en un circuito en serie
 
-7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada 
-miliamperímetro localizado en el circuito?
+7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 
 
 Figura 5-70
 
-Como podemos observar en la figura 5-70, nos da de dato que se suministra una corriente de 5mA el cual nos 
-hace pregunta de cuanta corriente nos indiaca en donde estan conectados en nuestro circuito el cual la 
-dando un analisis y por teoria cuando un circuito esta en serie su corriente es la misma y el voltaje en cada
-componente son diferentes por lo que llegamos a la conclusion que la corriente:
+Como podemos observar en la figura 5-70, nos da de dato que se suministra una corriente de 5mA el cual nos hace pregunta de cuanta corriente nos indiaca en donde estan conectados en nuestro circuito el cual la dando un analisis y por teoria cuando un circuito esta en serie su corriente es la misma y el voltaje en cada componente son diferentes por lo que llegamos a la conclusion que la corriente:
+
 Es en todo el circuito de I= 5mA.
 
-9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
-de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
-control. Trace el diagrama esquemático.
+9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.
 
-En el siguiente problema realizamos un diagrama esquematico con los datos requeridos el cual planteamos
-tres voltajes de 1.5V que al medir con el multimetro nos da 4.5V, en este circuito aplicamos un interruptor
-de dos puntas para dos led, en la figura (a) apreciamos el encendido de los dos led y la figura (b) al aplastar
-el interruptor el led 1 se apaga y el 2 sigue encendido, 
+En el siguiente problema realizamos un diagrama esquematico con los datos requeridos el cual planteamos tres voltajes de 1.5V que al medir con el multimetro nos da 4.5V, en este circuito aplicamos un interruptor de dos puntas para dos led, en la figura (a) apreciamos el encendido de los dos led y la figura (b) al aplastar el interruptor el led 1 se apaga y el 2 sigue encendido, 
 
 
 Figura (a).
@@ -72,8 +66,7 @@ RT= 3,671 MΩ
 
 13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
 
-Como nos plantea el problema de calcular RT de 12Resistencias de 5.6Ω lo cual realizamos
-lo siguiente:
+Como nos plantea el problema de calcular RT de 12Resistencias de 5.6Ω lo cual realizamos lo siguiente:
 
 RT= 12(5.6Ω)
 RT= 67.2 Ω
@@ -98,14 +91,17 @@ R5 = 3.9kΩ
 a) 
 RT= 1kΩ + 5.6kΩ + 2.2kΩ
 RT= 8.8kΩ
+
 b)
 RT= 4.7Ω + 10Ω + 12Ω 1Ω
 RT= 27.7Ω
+
 c)
 RT= 1MΩ + 5.6MΩ + 10MΩ + 560kΩ + 680kΩ
 RT= 16.6MΩ + 1240kΩ
 RT= 16600MΩ + 1240kΩ
 RT = 17.84 MΩ
+
 SECCIÓN 5–4 Aplicación de la ley de Ohm
 
 19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
@@ -132,6 +128,7 @@ I= 16/376000
 I= 4.26 µA
 
 21. Se conectan tres resistores de 470  Ω en serie con una fuente de 48 V.
+
 (a) ¿Cuál es la corriente en el circuito?
 Ley de ohm
 RT= 470 + 470 + 470
@@ -156,8 +153,7 @@ P= 0.54 W
 
 Figura 5-75
 
-En este problema utilizaremos la ley de Ohm pero para calcular cada resistencia con los datos observados
-como la intensidad de corriente y los voltajes en cada resistencia
+En este problema utilizaremos la ley de Ohm pero para calcular cada resistencia con los datos observados como la intensidad de corriente y los voltajes en cada resistencia
 
 R1= V1/I
 R1= 21.7/0.0658
@@ -180,17 +176,17 @@ R4= 469.6Ω
 
 (a) ¿Cuál es la resistencia de R4?
 R4 = 331Ω
+
 (b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
 Posición B: 9.15 mA
 Posición C: 14.3 mA
 Posición D: 36.3 mA
+
 (c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?.
 NO
 SECCIÓN 5–5 Fuentes de voltaje en serie
 
-27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma
-polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el 
-voltaje total?.
+27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?.
 
 ∑V = 5v+9v
 ∑V = 14v
@@ -210,10 +206,10 @@ b) ∑V = V1 + V2 + V3
 
 c) ∑V = V1 + V2 
    ∑V = 0v
+   
 SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
-31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro 
-de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?.
+31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?.
 
 ∑V = V1 + V2 + V3 + V4 + V5
 20 = 1.5 + 5.5 + 3 + 6 + V5
@@ -225,10 +221,10 @@ V5 = 4V
 
 Figura 5-81
 
-Aplicamos la ley de ohm la cual encontramos la intensidad la cual sera igual en cada resistencia ya que su
-circuito se encuentra en serie.
+Aplicamos la ley de ohm la cual encontramos la intensidad la cual sera igual en cada resistencia ya que su circuito se encuentra en serie.
 
 tomamos la primera resistencia y voltaje para encontrar la intensidad.
+
 I= V/R
 I= 11.2/56
 I= 0.2Ω

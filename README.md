@@ -8,6 +8,8 @@ Aplicar los conocimietos obtenidos en clases
 Poder analizar circuitos en serie y paralelo
 
 # MARCO TEÓRICO:
+![image](https://user-images.githubusercontent.com/116819463/208776744-649cbd44-a669-4076-99e3-a8cc55edb051.png)
+![image](https://user-images.githubusercontent.com/116819463/208777307-d9bcb222-4477-47dd-820c-0c17cd00d892.png)
 
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS

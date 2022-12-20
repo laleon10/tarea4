@@ -1,15 +1,26 @@
 # tarea4
 cap 7 y 8 
 
-3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68
+# OBJETIVOS:
+
+Aplicar los conocimietos obtenidos en clases
+
+Poder analizar circuitos en serie y paralelo
+
+# MARCO TEÓRICO:
 
 
-Figura5-68
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
+3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito 
 
 
-Figura 5-69
+![image](https://user-images.githubusercontent.com/116819463/208546623-4cdbefb0-2b2b-46bc-9409-70d09d409959.png)
+
+5. En la tarjeta de circuito impreso de doble cara mostrada en la figura , identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
+
+
+![image](https://user-images.githubusercontent.com/116819463/208587856-41940b3a-4122-4dd0-850e-26cfac9642a7.png)
 
 En este analisis podemos tenemos que encontrar las resistencias las cuales esten en serie por lo tanto
 en la observacion las primeras resistencias en serie son
@@ -20,14 +31,11 @@ Grupo 2: R2,R4,R6,R11
 
 Grupo 3: R3,R5,R9,R12
 
-SECCIÓN 5–2 Corriente en un circuito en serie
+7. La corriente suministrada por la fuente en la figura es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 
-7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
+![image](https://user-images.githubusercontent.com/116819463/208587921-cd962d78-6228-48ff-95cd-7fa8a0bae1a3.png)
 
-
-Figura 5-70
-
-Como podemos observar en la figura 5-70, nos da de dato que se suministra una corriente de 5mA el cual nos hace pregunta de cuanta corriente nos indiaca en donde estan conectados en nuestro circuito el cual la dando un analisis y por teoria cuando un circuito esta en serie su corriente es la misma y el voltaje en cada componente son diferentes por lo que llegamos a la conclusion que la corriente:
+Como podemos observar en la figura , nos da de dato que se suministra una corriente de 5mA el cual nos hace pregunta de cuanta corriente nos indiaca en donde estan conectados en nuestro circuito el cual la dando un analisis y por teoria cuando un circuito esta en serie su corriente es la misma y el voltaje en cada componente son diferentes por lo que llegamos a la conclusion que la corriente:
 
 Es en todo el circuito de I= 5mA.
 
@@ -35,14 +43,6 @@ Es en todo el circuito de I= 5mA.
 
 En el siguiente problema realizamos un diagrama esquematico con los datos requeridos el cual planteamos tres voltajes de 1.5V que al medir con el multimetro nos da 4.5V, en este circuito aplicamos un interruptor de dos puntas para dos led, en la figura (a) apreciamos el encendido de los dos led y la figura (b) al aplastar el interruptor el led 1 se apaga y el 2 sigue encendido, 
 
-
-Figura (a).
-
-
-
-Figura (b).
-
-SECCIÓN 5–3 Resistencia total en serie
 
 11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
 
@@ -71,10 +71,10 @@ Como nos plantea el problema de calcular RT de 12Resistencias de 5.6Ω lo cual 
 RT= 12(5.6Ω)
 RT= 67.2 Ω
 
-15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
+15. Si en la figura  la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
 
 
-Figura 5-72
+![image](https://user-images.githubusercontent.com/116819463/208588044-b5acd85e-d643-4c1f-940b-f83931472037.png)
 
 Datos
 RT= 17.4kΩ
@@ -85,8 +85,9 @@ RT = 5.6KΩ + 1kΩ + 2.2kΩ + 4.7kΩ + R5
 17.4kΩ - 5.6KΩ - 1kΩ - 2.2kΩ - 4.7kΩ = R5
 R5 = 3.9kΩ
 
-17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
+17. En la figura, encuentre la resistencia total si los tres circuitos están conectados en serie.
 
+![image](https://user-images.githubusercontent.com/116819463/208588065-1cf7c7ac-8796-486a-836d-63418b347e22.png)
 
 a) 
 RT= 1kΩ + 5.6kΩ + 2.2kΩ
@@ -102,12 +103,10 @@ RT= 16.6MΩ + 1240kΩ
 RT= 16600MΩ + 1240kΩ
 RT = 17.84 MΩ
 
-SECCIÓN 5–4 Aplicación de la ley de Ohm
-
-19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
+19. ¿Cuál es la corriente presente en cada circuito de la figura ?
 
 
-Figura 5-74
+![image](https://user-images.githubusercontent.com/116819463/208588102-85ea9c77-6027-43a4-a2c4-9323a6bb2d55.png)
 
 a) Datos obtenidos son V= 5.5v y R1=2.2kΩ,R2=5.6kΩ,R3=1.0kΩ
 Aplicando la ley de ohm
@@ -148,10 +147,9 @@ Tenemos como formula en este caso P= I^2(RT)
 P= (0.03404)^2.(470)
 P= 0.54 W
 
-23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+23. ¿Cuál es el valor de cada resistor mostrado en la figura ?
 
-
-Figura 5-75
+![image](https://user-images.githubusercontent.com/116819463/208588130-30c76d9a-4b93-4a7c-9615-16147955675a.png)
 
 En este problema utilizaremos la ley de Ohm pero para calcular cada resistencia con los datos observados como la intensidad de corriente y los voltajes en cada resistencia
 
@@ -171,7 +169,8 @@ R4= V4/I
 R4= 30.9/0.0658
 R4= 469.6Ω
 
-25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
+25. En el circuito de la figura , el medidor lee 7.84 mA cuando el interruptor está en la posición A.
+![image](https://user-images.githubusercontent.com/116819463/208588164-3139cd1a-9bfb-4b8e-b3b8-d9a5ada5b8c5.png)
 
 
 (a) ¿Cuál es la resistencia de R4?
@@ -191,10 +190,10 @@ SECCIÓN 5–5 Fuentes de voltaje en serie
 ∑V = 5v+9v
 ∑V = 14v
 
-29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.
+29. Determine el voltaje de fuente total en cada circuito de la figura .
 
 
-Figura 5-79
+![image](https://user-images.githubusercontent.com/116819463/208588214-9ce18086-ba46-4d59-ae5b-30bb665a8f00.png)
 
 a) ∑V = V1 + V2 + V3
    ∑V = 10 + 5 + 8 
@@ -205,9 +204,7 @@ b) ∑V = V1 + V2 + V3
    ∑V = 35V
 
 c) ∑V = V1 + V2 
-   ∑V = 0v
-   
-SECCIÓN 5–6 Ley del voltaje de Kirchhoff
+   ∑V = 0v  
 
 31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?.
 
@@ -216,10 +213,9 @@ SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 20 - 1.5 - 5.5 - 3 - 6 = V5
 V5 = 4V
 
-33. En el circuito de la figura 5-81, determine la resistencia de R4.
+33. En el circuito de la figura, determine la resistencia de R4.
 
-
-Figura 5-81
+![image](https://user-images.githubusercontent.com/116819463/208588305-a61ff8c8-2303-4bec-a5ac-d77fa0c18689.png)
 
 Aplicamos la ley de ohm la cual encontramos la intensidad la cual sera igual en cada resistencia ya que su circuito se encuentra en serie.
 
@@ -233,37 +229,33 @@ Por lo tanto en la R4= V4/I
 R4 = 4.4/0.2
 R4 = 22Ω
 
-35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
+35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura . La
 corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
 
-
-Figura 5-83
+![image](https://user-images.githubusercontent.com/116819463/208588350-572e743b-3c2b-4453-a29f-ad3043a4dbb3.png)
 
 Posición A: 4.0 V
 Posición B: 4.5 V
 Posición C: 5.4 V
 Posición D: 7.2 V
-SECCIÓN 5–7 Divisores de voltaje
 
 *37. La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un
 resistor de 27 Ω que forma parte de la resistencia total en serie?.
 
 4.82%
 
-39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura(a).
 
-
-Figura 5-58
+![image](https://user-images.githubusercontent.com/116819463/208588430-4b213bb8-186f-43ea-b231-cebf678a916e.png)
 
 Salida A = 15 V
 Salida B = 10.6 V
 Salida C = 2.62 V
 
-*41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
+*41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura ? R es el resistor de valor más
 bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
-
-Figura 5-68
+![image](https://user-images.githubusercontent.com/116819463/208589148-719b9bde-89ce-40e4-bd5f-c3e162cad2a8.png)
 
 VR = 6V
 V2R = 12V
@@ -271,10 +263,9 @@ V3R = 18V
 V4R = 24V
 V5R = 30V
 
-43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+43. Si hay 10 V a través de R1 en la figura, ¿cuál es el voltaje en cada uno de los demás resistores?
 
-
-Figura 5-88
+![image](https://user-images.githubusercontent.com/116819463/208589178-bd81de2b-1959-4e53-8a07-dd4fab1e1732.png)
 
 V2 = 1.79V
 V3 = 1V
@@ -284,98 +275,90 @@ V4 = 17.9V
 10 V hasta un máximo de 100 V dentro del ±1% con una fuente de 1 a 120 V. El voltaje máximo debe
 ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
 ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
-SECCIÓN 5–8 Potencia en circuitos en serie
-
-47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
 
 
-Figura 5-88
+47. ¿Cuál es la potencia total en el circuito de la figura ? Use los resultados del problema 43.
+
+![image](https://user-images.githubusercontent.com/116819463/208589241-c5e9f7e5-1abf-4903-a723-92186c73d258.png)
 
 PT = 54.9 mA
 
-49. Encuentre RT en la figura 5-89.
+49. Encuentre RT en la figura .
 
-
-Figura 5-89
+![image](https://user-images.githubusercontent.com/116819463/208589274-a49f4dc8-c56e-42ea-9d03-8346ba3f1eef.png)
 
  RT=12.5 MΩ
-SECCIÓN 5–9 Mediciones de voltaj
 
-51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+51. En la figura, determine el voltaje en cada punto con respecto a tierra.
 
-
-Figura 5-90
+![image](https://user-images.githubusercontent.com/116819463/208589304-358a142e-8642-402e-9d0a-3de111e9fac2.png)
 
 VA= 100V
 VB= 57.7V
 VC= 15.2V
 VD= 7.58V
 
-53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+53. En la figura , determine el voltaje en cada punto con respecto a tierra.
 
-
-Figura 5-91
+![image](https://user-images.githubusercontent.com/116819463/208589377-58c69480-a79e-4e1e-a7f2-c40f532aecaf.png)
 
 VA= 14.82V
 VB= 12.97
 VC= 12.64V
 VD= 9.34V
-SECCIÓN 5–10 Localización de fallas
 
-55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
+55. Observe los medidores de la figura  y determine los tipos de fallas ocurridos en los circuitos y qué
 componentes fallaron.
 
-
-Figura 5-92
+![image](https://user-images.githubusercontent.com/116819463/208589445-b8605bd7-d11f-45ec-bf6f-cc7aca7e1fec.png)
 
 a) R4 esta abierto
 b) Corto de A a B
 
-*57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito 
-impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles
+*57. La tabla  muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito 
+impreso que aparece en la figura . ¿Son correctos estos resultados? Si no, identifique los posibles
 problemas.
 
+![image](https://user-images.githubusercontent.com/116819463/208589484-af36ef5c-2b62-4847-8b35-e573ed646cf5.png)
 
-Tabla 5-1
-
-Analizamos los valores de cada punta del circuito de la figura 5-93, podemos comprobar que los datos de la 
+Analizamos los valores de cada punta del circuito de la figura , podemos comprobar que los datos de la 
 tabla son correctos con el de la placa.
 
-*59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2.
+*59. Al examinar la tarjeta de circuito impreso de la figura , se miden 17.83 kΩ entre las puntas 1 y 2.
 Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
 De ser así, identifíquelo.
 
 
-Figura 5-93
+![image](https://user-images.githubusercontent.com/116819463/208589555-822da25d-412c-43f0-93d0-cd7bb8809c3c.png)
 
 Si, hay un corot entre la clavija 4 y el lado supeerior de R11.
-SECCIÓN 6–1 Resistores en paralelo
 
-1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
 
+1. Muestre cómo conectar los resistores de la figura a en paralelo entre las terminales de una batería
+
+![image](https://user-images.githubusercontent.com/116819463/208589643-8938736d-67d7-48be-9661-9a16e5a54603.png)
 
 *3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara
-mostrada en la figura 6-66
+mostrada en la figura 
 
-
-Figura 6-66
+![image](https://user-images.githubusercontent.com/116819463/208589673-c34d44c9-ece5-4482-8ebb-3a7613d95031.png)
 
  R1, R2, R5, R9, R10, y R12 están en paralelo.
  R4, R6, R7, y R8 están en paralelo.
  R3 y R11 están en paralelo.
-SECCIÓN 6–2 Voltaje en un circuito en paralelo
-
-5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 
 
-Figura 6-67
+5. El voltaje de fuente en la figura  es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+![image](https://user-images.githubusercontent.com/116819463/208589715-9ba297be-aa0f-47fc-b6ca-d1d5a13fcaab.png)
 
 El voltaje es el mismo ya que en un circuito en paralelo las mediciones de voltaje en cada tramo,componente 
 es el mismo que el voltaje original.
 
-7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura  para cada posición del
 interruptor?
 
+![image](https://user-images.githubusercontent.com/116819463/208589747-289c941b-10b1-4c42-aa1f-d8dd0cb419d2.png)
 
 Interruptor en posición A: 
 R1= 15V
@@ -392,17 +375,15 @@ R1= 15V
 R2=15V
 R3= 0V
 R4=0V
-SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 
 9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
 
 IT = I1 + I2 + I3 = 250mA + 300mA + 800ma = 1350mA = 1.35A
 
-11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+11. En el circuito de la figura , determine la resistencia en R2, R3 y R4.
 
-
-Figura 6-69
+![image](https://user-images.githubusercontent.com/116819463/208589803-dd223f01-2b2c-4988-aa02-a89cfa7f3dba.png)
 
 IT=I1+I2+I3+I4
 5.03= 1+2.14+0.470+I4
@@ -430,7 +411,7 @@ Realizamos reglade 3
 
 A = 0.1(25)/220
 A = 1.4 mA
-SECCIÓN 6–4 Resistencia total en paralelo
+
 
 15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
@@ -488,17 +469,19 @@ RT= 1/((235+25+47)/2350)
 RT= 2350/307
 RT= 7.654 Ω
 
-21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura  en las siguientes condiciones?
 (a) SW1 y SW2 abiertos 
 (b) SW1 cerrado, SW2 abierto
 (c) SW1 abierto, SW2 cerrado 
 (d) SW1 y SW2 cerrados
 
+![image](https://user-images.githubusercontent.com/116819463/208589903-9001b3bb-dfe4-49c0-978e-0f015ca5e524.png)
 
-	a) SW1 y SW2 abiertos
 
-  R_SW1=470kΩ
-  R_SW2=910kΩ
+a) SW1 y SW2 abiertos
+
+ R_SW1=470kΩ
+ R_SW2=910kΩ
 
    b) SW1 cerrado, SW2 abierto
   R_SW1= (R1R2)/(R1 + R2)
@@ -523,7 +506,6 @@ RT= 7.654 Ω
   RT= 1/(2263/436254)
   RT= 436254/2263
   RT= 192.776kΩ
-SECCIÓN 6–5 Aplicación de la ley de Ohm
 
 23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente 
 suministrada por la fuente?
@@ -540,45 +522,24 @@ IT= 10A
 fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente
 a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
 
+![a2](https://user-images.githubusercontent.com/116819463/208592008-0aaf506a-4af0-4d11-9423-12383bacfff1.png)
 
 *La intensidad total del circuito aumenta conforme aumenta el número de luces.
 *En cada foco llega la misma corriente y el mismo voltaje 
 *Si se requiere iluminar varios bombillos mediante una sola fuente, es recomendable que estos sean colocados 
 en paralelo, ya que todos los elementos resistivos emplean el mismo voltaje en sus terminales.
 
-
-27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el
-fusible de 0.5 A se funda?
-
-
-
-
-29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
-
-
-
-
-SECCIÓN 6–6 Fuentes de corriente en paralelo
-
 31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en
-la figura 6-79.
+la figura 
 
+![image](https://user-images.githubusercontent.com/116819463/208591764-61c8039a-e376-4550-9079-53ec73e0e91b.png)
 
 El interruptor en la posición A, permite que sobre la resistencia 1kΩ pase una corriente de 2.25 mA
 El interruptor en la posición B, permite que sobre la resistencia 1kΩ pase una corriente de 4.75 mA
 El interruptor en la posición C, permite que sobre la resistencia 1kΩ pase una corriente de 7.00 mA  
-SECCIÓN 6–7 Divisores de corriente
 
-33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
-
-
-
-
-
-
-
-
-35. Determine todos los valores de resistor en la figura 6-83. RT = 773 Ω.
+35. Determine todos los valores de resistor en la figura . RT = 773 Ω.
+![image](https://user-images.githubusercontent.com/116819463/208590822-2dc03ebf-8f10-494e-969b-b684f0f9cbf9.png)
 
 
 Primer punto es aplicar las leyes de nodos para identificar a las corrientes 
@@ -596,6 +557,7 @@ Con la corriente total y la resistencia total, definimos el voltaje total.
 Por ser un circuito en paralelo aplicamos la ley de Ohm para establecer el valor 
 de las resistencias.
 
+![image](https://user-images.githubusercontent.com/116819463/208590778-577dfc22-bb56-4023-b042-24c2d4f755a0.png)
 
 37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas
 de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50
@@ -612,18 +574,12 @@ aplicación de medición de 50 A?
 
 𝐼𝐶 = 50𝑥10^−3𝑣/10000 Ω
 𝐼𝐶 = 5𝜇A
-SECCIÓN 6–8 Potencia en circuitos en paralelo
 
-39. Determine la potencia total en cada uno de los circuitos de la figura 6-81
+39. Determine la potencia total en cada uno de los circuitos de la figura 
+![image](https://user-images.githubusercontent.com/116819463/208590666-5e85ae63-ba94-46f3-92a6-995075d17eb8.png)
+![image](https://user-images.githubusercontent.com/116819463/208590690-7095dbf2-ccf7-4724-ad22-296538436f9d.png)
+![image](https://user-images.githubusercontent.com/116819463/208590706-cbd065a5-0dcf-4b47-9f3e-53ac068a956c.png)
 
-
-
-
-
-
-
-
-SECCIÓN 6–10 Localización de fallas
 
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? 
 ¿Cuál será la corriente total?
@@ -637,12 +593,16 @@ Potencia de los focos: 75W
 * La corriente total, por otra parte, al tener menos oposición al paso de corriente 
   esta se vería favorecida ya que su valor incrementaría. 
 
-45. ¿Qué está mal con el circuito de la figura 6-86?
+45. ¿Qué está mal con el circuito de la figura ?
+
+![image](https://user-images.githubusercontent.com/116819463/208590588-21859946-b434-4c5b-892e-03d358be68a1.png)
 
 
-*47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
+*47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura  y
 asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de
 la tarjeta. Describa el procedimiento en un formato detallado paso a paso. 
+
+![image](https://user-images.githubusercontent.com/116819463/208590557-f0e64d18-abe6-4015-a585-fcdb36ef6f9c.png)
 
 
 1) Para la comprobación de los componentes de este circuito se necesitará de una 
@@ -661,9 +621,10 @@ instrumentos de medición.
 amperímetro en serie junto a la fuente de alimentación.
 
 
-* 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe
+* 49. Para el circuito mostrado en la figura , determine la resistencia entre las siguientes puntas si existe
 un corto entre las puntas 3 y 4:
 
+![image](https://user-images.githubusercontent.com/116819463/208590523-db5bf5dc-7bbd-49aa-bfef-b245107dfdcf.png)
 
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
@@ -679,3 +640,11 @@ que tanto el polo negativo como el positivo no energizan ningún componente.
 5.- Las puntas (1&4) permiten el correcto funcionamiento de los componentes 
 (R1, R2, R3, R4, R11 y R12) ya que tanto el polo negativo como el positivo 
 energizan estos componentes
+
+# VIDEOS
+
+# CONCLUSIONES
+
+# BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson Prentice Hall.

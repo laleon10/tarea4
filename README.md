@@ -645,6 +645,8 @@ energizan estos componentes
 
 # CONCLUSIONES
 
+En el transcurso de las tareas, se debe traducir lo aprendido anteriormente en circuitos serie-paralelo, o los llamados circuitos híbridos, se debe aprender a encontrar defectos, uso de voltímetros, uso de divisores de voltaje y varios otros temas que se utilizarán en estas. para cadenas
+
 # BIBLIOGRAFÍA
 
 Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson Prentice Hall.
